@@ -6,7 +6,7 @@ module.exports = (grunt) ->
           'server.js': 'server.coffee'
     express:
       options:
-        port: 9997
+        port: 9996
         delay: 300
         script: "server.js"
       dev:
@@ -34,7 +34,7 @@ module.exports = (grunt) ->
       options:
         npm: false
         github:
-          repo: 'smurp/huviz'
+          repo: 'DIVERSUSandTIM/diversus-navigator'
           #usernameVar: 'GITHUB_USERNAME'
           #passwordVar: 'GITHUB_PASSWORD'
   grunt.loadNpmTasks 'grunt-contrib-coffee'

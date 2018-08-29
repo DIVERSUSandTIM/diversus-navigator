@@ -8,8 +8,6 @@ diversus-navigator
     # Install diversus-navigator from github
     git clone git@github.com:DIVERSUSandTIM/diversus-navigator.git
 
-## Installation (for running the server)
-
     # Make sure you've got a suitable version of Node
     node -v # expecting v6.11.3 or later
 
