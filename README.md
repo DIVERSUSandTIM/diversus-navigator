@@ -22,4 +22,4 @@ diversus-navigator
 
 # License
 
-GPL2.0
+[GPLv3](./COPYING)
