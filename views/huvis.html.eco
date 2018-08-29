@@ -58,7 +58,7 @@
               HuViz
               <% if @git_commit_hash: %>
                 <sup class="git_commit_hash">
-                  <a target="huviz_version" href="https://github.com/smurp/huviz/commit/<%= @git_commit_hash %>"><%= @git_commit_hash %></a>
+                  <a target="huviz_version" href="https://github.com/DIVERSUSandTIM/diversus-navigator/commit/<%= @git_commit_hash %>"><%= @git_commit_hash %></a>
                 </sup>
               <% end %>
             </h1>
